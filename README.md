@@ -1,12 +1,34 @@
-- 👋 Hi, I’m @shahnawaz akhtar ansari
-- 👀 I’m interested in dsa,front end development
-- 🌱 I’m currently learning MERN stack
-- 👀 I’m looking to collaborate on web development
-- 📫 How to reach me on
-                     linkedin: https://www.linkedin.com/in/shahnawaz-ansari-0b4118216/
-                       instagram :https://www.instagram.com/shahnawaz__22/
+# Hi, I'm Shahnawaz Akhtar Ansari 👋
 
-<!---
-shahnawazakhtaransari/shahnawazakhtaransari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Systems Engineer @ Tata Consultancy Services** | Full-Stack & Backend Developer
+
+### About Me
+- Currently working at **TCS** on backend development and enterprise applications.
+- Strong foundation in **Java, Spring Boot, DSA**, and problem-solving.
+- Actively building full-stack applications and exploring modern backend technologies.
+- Always eager to learn and contribute to meaningful projects.
+
+### Tech Stack
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+**Node.js** • **Express.js**
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**JavaScript (ES6+)** • **HTML5** • **CSS3** • **Tailwind**
+
+**Database & Tools**  
+**MongoDB** • **MySQL** • **Git** • **Postman** • **Docker** (Learning)
+
+### What I'm Looking For
+I'm actively open to new opportunities in **Backend Development** or **Full-Stack Development** roles.
+
+---
+
+### Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahnawaz-ansari-0b4118216/)
+- 📧 Reach out via LinkedIn for collaboration or opportunities
+
+---
