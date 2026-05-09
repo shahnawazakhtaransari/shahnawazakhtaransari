@@ -28,7 +28,7 @@ I'm actively open to new opportunities in **Backend Development** or **Full-Stac
 ---
 
 ### Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/shahnawaz-ansari-0b4118216/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahnawaz-ansari-dev/)
 - 📧 Reach out via LinkedIn for collaboration or opportunities
 
 ---
